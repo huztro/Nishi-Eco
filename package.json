@@ -1,0 +1,21 @@
+{
+  "name": "eco-bot",
+  "version": "1.0.0",
+  "description": "Simple all-in-one Discord economy bot using JSON database",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "economy",
+    "json",
+    "discord.js"
+  ],
+  "author": "Huztro_",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.16.0"
+  }
+}
